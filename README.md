@@ -1,4 +1,4 @@
-# jupyter-binder
+# eonfathom's jupyter-binder
 
 Click the button below to run and play with the notebooks in this repo! (Binder [last built](http://mybinder.org/status/nhdaly/jupyter-binder) at [5985cc1](https://github.com/NHDaly/jupyter-binder/commit/5985cc1)).
 
